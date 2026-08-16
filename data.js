@@ -1,6 +1,6 @@
 module.exports = {
-  token: "8752364352:AAGfKdhXWBv40YcwG-b7hrGYnGzkDqm71rs",
-  id: "7770087246",
-  address: "https://r8hex-server-production.up.railway.app",  // ✅ صحيح
+  token: "8868693572:AAGP-mPAJe-pu2xaF4iX0oy84-bxBJHAdyE",
+  id: "8000450636",
+  address: "https://r8hex-server-production.up.railway.app",
   secret: "my-secret-key-123"
 };
